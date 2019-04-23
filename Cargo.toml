@@ -21,3 +21,6 @@ crate-type = [
     "cdylib",
     "lib",
 ]
+
+[patch.crates-io.random-access-disk]
+  path = "/home/lms/src/datrs/random-access-disk"
